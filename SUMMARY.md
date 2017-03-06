@@ -1,6 +1,7 @@
 * [about](README.md)
     * [changelog](CHANGELOG.md)
     * [contributing](CONTRIBUTING.md)
+* [tutorial](tutorial/README.md)
 * [latest](latest/README.md)
     * [nodes](latest/nodes.md)
         * [node api](latest/node-api.md)
